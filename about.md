@@ -4,84 +4,102 @@ layout: page
 description: About
 bodyClass: page-about
 ---
-
+OnlineLegelCourier-Pricing
+ 
+CT Corporation Systems
+330 North Brand Blvd. Suite 700
+Glendale, CA, 91203
+Regular Process of Service $30.00*, same day or next day service $40.00* 
+ 
+Process of Service - City of Los Angeles (North of 50th Street East & West, including San Fernando Valley (East of Tampa Ave.)
+Standard Routine Service $50.00* Served within 72 hours.
+Priority-Two-day Service $70.00*   Served within 48 Hours.
+Urgent Next day Service $90.00*
+Urgent Same Day service $100.00*
+For outlying Areas, please email or call for Quote.
+We Serve Businesses only, we do not Serve Individual (Persons) Defendants
+ 
+Courtesy Copy Printing & Delivery to the following Courthouses
+Los Angeles Superior Court
+Stanley Mosk Courthouse         Sprint Street Courthouse                          
+111 N. Hill Street                        312 N. Spring Street                                    
+Los Angeles, CA 90012             Los Angeles, CA 90012                                                                                                                          
+$19.95*                                       $19.95*                                                              
+                       L.A. Central District Federal Courts                                                                                                    
+First Street Courthouse                         Edward R. Roybal Courthouse
+350 W. 1St Street                                   255 E. Temple Street
+Los Angeles, CA 90012                           Los Angeles, CA 90012                                  
+$19.95*                                                        $24.95*
+Courthouses located in Santa Monica, Beverly Hills, Glendale & Van Nuys $45.00*
+Chatsworth, Pasadena & Inglewood $55.00
+Compton, Whittier, El Monte $65.00 Long Beach $75.00 Pomona $85.00
+ 
+Court filings $24.95* Downtown Los Angeles only
+Courthouses located in Santa Monica, Beverly Hills, Glendale & Van Nuys $45.00*
+Chatsworth, Pasadena & Inglewood $55.00
+Compton, Whittier, El Monte $65.00 Long Beach $75.00 Pomona $85.00
+       
+*Price includes the first 20 pages, after the first 20 pages……….$.20 per page
+*Blue Backing, if required is included & Exhibit Tabs are considered a page. 
+Courier service to courts in the Los Angeles Area $50.00 Plus Court document delivery charge.
+ 
+E-filing at Online Legal Courier
+E-file Concierge $24.95
+We will e-file your documents, Once accepted, and Documents are conformed.  We will email documents to you with an Invoice.  
+If there are any Court fees such as First Fees for Summons & Complaint.  We will advance fees.  We charge 7% for Fee Advancement service.
+DIY E-filing- Just create a Log-in in the e-file portal above and you are able to file documents in Los Angeles Superior Court & Orange County Superior Court and most Courts in California on your own with complete privacy.
+Courtesy Copies for E-filed Documents can only be delivered to Downtown Los Angeles Courts $19.95
+For all other Los Angeles Courts, please see courtesy copy pricing.
+           
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+de 
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+OnlineLegalCourier.com
+Online Legal Courier is the perfect choice for legal services requiring e- filing, Courtesy & Chamber copy delivery, Service of Process, and (public records) document retrieval.
+ 
+Email us at George@onlinelegalcourier.com
+                            Or
+          Call us at (818) 515-4620
 
-# Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+OnlineLegelCourier-Pricing
+ 
+CT Corporation Systems
+330 North Brand Blvd. Suite 700
+Glendale, CA, 91203
+Regular service 30.00*, same day or next day service $40.00* 
+Process of Service - City of Los Angeles (North of 50th Street East & West, including San Fernando Valley (East of Tampa Ave.)
+Standard Routine Service $50.00* Served within 72 hours.
+Priority-Two-day Service $70.00*   Served within 48 Hours.
+Urgent Next day Service $90.00*
+Urgent Same Day service $100.00*
+For outlying Areas, please email or call for Quote.
+We Serve Businesses only, we do not Serve Individual (Persons) Defendants
+ 
+Courtesy Copy Printing & Delivery to the following Courthouses
+Court filings $24.95* Downtown Los Angeles only
+Los Angeles Superior Court
+Stanley Mosk Courthouse         Sprint Street Courthouse                          
+111 N. Hill Street                        312 N. Spring Street                                    
+Los Angeles, CA 90012             Los Angeles, CA 90012                                                                                                                          
+$19.95*                                       $19.95*                                                              
+                       L.A. Central District Federal Courts                                                                                                    
+First Street Courthouse                         Edward R. Roybal Courthouse
+350 W. 1St Street                                   255 E. Temple Street
+Los Angeles, CA 90012                           Los Angeles, CA 90012                                  
+$19.95*                                                        $24.95*
+Courthouses located in Santa Monica, Beverly Hills, Glendale & Van Nuys $45.00*
+Chatsworth, Pasadena & Inglewood $55.00
+Compton, Whittier, El Monte $65.00 Long Beach $75.00 Pomona $85.00
+       
+*Price includes the first 20 pages, after the first 20 pages……….$.20 per page
+*Blue Backing, if required is included & Exhibit Tabs are considered a page. 
+Courier service to courts in the Los Angeles Area $50.00 Plus Court document delivery charge.
+ 
+E-filing at Online Legal Courier
+E-file Concierge $24.95
+We will e-file your documents, Once accepted, and Documents are conformed.  We will email documents to you with an Invoice.  
+If there are any Court fees such as First Fees for Summons & Complaint.  We will advance fees.  We charge 7% for Fee Advancement service.
+DIY E-filing- Just create a Log-in in the e-file portal above (or below) and you are able to file documents in Los Angeles Superior Court & Orange County Superior Court and most Courts in California on your own with complete privacy.
+Courtesy Copies for E-filed Documents can only be delivered to Los Angeles Courts $19.95
+           
