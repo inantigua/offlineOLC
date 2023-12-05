@@ -1,5 +1,5 @@
 ---
-title: "Compton, Whittier and El Monte Courts"
+title: "Compton, Whittier and El Monte Courts for only $65.00."
 date: 2018-11-19T10:47:58+10:00
 image: "images/illustrations/65.svg"
 jobtitle: "We Service Compton, Whittier and El Monte Courts"

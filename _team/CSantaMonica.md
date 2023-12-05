@@ -1,5 +1,5 @@
 ---
-title: "Santa Monica, Beverly Hills, Glendale and Van Nuys Courts"
+title: "Santa Monica, Beverly Hills, Glendale and Van Nuys Courts for only $45.00."
 date: 2018-11-19T10:47:58+10:00
 image: "images/illustrations/45.svg"
 jobtitle: "We Service Santa Monica, Beverly Hills, Glendale and Van Nuys Courts."
