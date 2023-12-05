@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+email: 'George@OnlineLegalCourier.com'
+phone: '(818) 515 4620'
+contact_button_link: 'contact'
