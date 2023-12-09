@@ -7,7 +7,7 @@ promoted: true
 weight: 1
 ---
 
-The Los Angeles Superior Court General Order regarding Mandatory Electronic Filing for documents for Civil Limited Complex Cases. 
+Los Angeles Superior Court General Order regarding Mandatory Electronic Filing for documents for Civil Limited Complex Cases. 
 
 
 https://www.lacourt.org/division/efiling/efiling2.aspx
