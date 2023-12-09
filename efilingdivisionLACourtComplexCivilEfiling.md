@@ -7,7 +7,6 @@ promoted: true
 weight: 1
 ---
 
-Superior Court of California, County of Los Angeles+Los Angeles Superior Court General Order regarding Mandatory Electronic Filing for Civil. 
 
 
 https://www.lacourt.org/division/efiling/efiling2.aspx
