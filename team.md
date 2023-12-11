@@ -1,13 +1,13 @@
 ---
-title: Team
+title: Courtesy Copy or Judge's Copy - Chambers Copy - Physically Delivered to Courthouse.
 layout: teams
-description: Team
+description: OnlineLegalCourier.Com Legal Courtesy Copy Delivery.
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# E-File Services and Courtesy Copies for the Los Angeles County Court System.
 
 email: 'George@OnlineLegalCourier.com'
 phone: '(818) 515 4620'
