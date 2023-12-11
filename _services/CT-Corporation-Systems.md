@@ -9,7 +9,7 @@ CT Corporation Systems
 330 North Brand Blvd. Suite 700
 Glendale, CA 91203 
 
-> Regular low price of $30.00 per service.  Must be received by 9:00 am for same day service.
+> Regular low price of $30.00 per service.  Must be received by 9:00 A.M. for same day service.
 
 
 
