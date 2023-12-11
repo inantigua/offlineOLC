@@ -1,5 +1,6 @@
 ---
-title: "Corporate Process Services - CT Corporation Systems"
+title: "Corporate Process Services. 
+		CT Corporation Systems"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
@@ -8,9 +9,7 @@ CT Corporation Systems
 330 North Brand Blvd. Suite 700
 Glendale, CA 91203 
 
->Regular service 30.00.
->
->Same day or next day service $40.00.
+> Regular low price of $30.00 per service.  Must be received by 9:00 am for same day service.
 
 
 
