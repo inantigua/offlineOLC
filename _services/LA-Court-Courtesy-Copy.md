@@ -23,7 +23,7 @@ Courtesy Copy Printing & Delivery to the following Courthouses
             <div class="team team-summary team-summary-large">
                 {% if team.image %}
                 <div class="team-image">
-                    <img width="90" height="90" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
+                    <img width="0" height="0" alt="{{ }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
                 </div>
                 {% endif %}
                 <div class="team-meta">
