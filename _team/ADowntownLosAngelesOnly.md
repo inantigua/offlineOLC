@@ -1,5 +1,5 @@
 ---
-title: "Downtown Los Angeles Only - Courtesy Copy Delivery only $19.95."
+title: "Downtown Los Angeles Only - Courtesy Copy Delivery only $19.95"
 date: 2018-11-19T10:47:58+10:00
 image: "images/illustrations/1995.svg"
 jobtitle: "Los Angeles Superior Court"
