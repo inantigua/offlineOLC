@@ -1,7 +1,7 @@
 ---
 title: $19.95* Courtesy Copy or Judge's Copy - Chambers Copy - Physically Delivered to Courthouse.
 layout: teams
-description: OnlineLegalCourier.Com Legal Courtesy Copy Delivery.
+description: OnlineLegalCourier.Com $19.95 Legal Courtesy Copy Delivery.
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
