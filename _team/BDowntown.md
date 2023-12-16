@@ -9,3 +9,9 @@ weight: 1
 
 L.A. Central District Federal Courts
 L.A. Central District Federal Courts First Street Courthouse Edward R. Roybal Courthouse 350 W. 1St Street 255 E. Temple Street Los Angeles, CA 90012..
+
+> *Price include only the first 20 pages, after the first 20 pages….$.20 per page
+> 
+> *Blue Backing, if required is included.
+>
+> *Exhibit Tabs are considered a page. 

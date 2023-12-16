@@ -8,3 +8,9 @@ weight: 1
 ---
 
 Compton, Whittier and El Monte Courts
+
+> *Price include only the first 20 pages, after the first 20 pages….$.20 per page
+> 
+> *Blue Backing, if required is included.
+>
+> *Exhibit Tabs are considered a page. 
