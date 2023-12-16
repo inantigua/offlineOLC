@@ -4,9 +4,9 @@
     flex-wrap: wrap;
     flex-direction: row;
     .team-image {
-      height: 60px;
-      width: 60px;
-      margin-right: 10px;
+      height: 30px;
+      width: 30px;
+      margin-right: 20px;
       border-radius: 0%;
       overflow: hidden;
       img {
@@ -37,11 +37,11 @@
   .team-summary-large {
     background-color: $white-offset;
     padding: 30px;
-    border-radius: 3px;
+    border-radius: 0px;
     .team-image {
-      height: 90px;
-      width: 90px;
-      margin-right: 1px;
+      height: 30px;
+      width: 30px;
+      margin-right: 20px;
       border-radius: 0%;
       overflow: hidden;
       img {
