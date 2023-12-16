@@ -1,7 +1,5 @@
 ---
-title: OnlineLegalCourier.com Contact and Working Hours.
-
-	   We offer efile service.
+title: "OnlineLegalCourier.com Contact and Working Hours."
 layout: contact
 description: Contact
 ---
