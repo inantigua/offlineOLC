@@ -1,5 +1,5 @@
 ---
-title: OnlineLegalCourier.com - OLC - and LACourtesyCopies.com prodies Los Angeles, California Legal Delivery
+title: "OnlineLegalCourier.com - OLC - and LACourtesyCopies.com offers Los Angeles, California Legal Delivery"
 layout: services
 description: We provide Los Angeles County legal professional litigation efile and physical delivery services.
 intro_image: "images/illustrations/onlinelegal4.png"
