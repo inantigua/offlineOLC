@@ -1,7 +1,7 @@
 ---
 title: "Pomona Court for only $85.00"
 date: 2018-11-19T10:47:58+10:00
-image: "images/illustrations/85.svg"
+image: ""
 jobtitle: "We service City of Pomona Courthouse."
 promoted: true
 weight: 1
