@@ -2,10 +2,13 @@
 title: "Downtown Los Angeles Only - Courtesy Copy Delivery only $19.95"
 date: 2018-11-19T10:47:58+10:00
 image: ""
-jobtitle: "Los Angeles Superior Court"
+jobtitle: "Stanley Mosk & Spring Street Courthouse"
 promoted: true
 weight: 1
 ---
+
+City of Los Angeles Downtown Mosk and Spring Courthouse.
+We Deliver during courthouse building business hours.
 
 
 > *Price include only the first 20 pages, 20 cents per extra page
@@ -14,8 +17,6 @@ weight: 1
 >
 > *Exhibit Tabs are considered a page. 
 
-
-$19.95 Delivery 
 
 {% include olccontact.html show_button=false %}
 
