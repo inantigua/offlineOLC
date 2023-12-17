@@ -10,8 +10,10 @@ weight: 1
 City of Los Angeles Downtown Mosk and Spring Courthouse.
 We Deliver during courthouse building business hours.
 
+Business hours are from 8:30 a.m. to 4:30 p.m. , Monday through Friday, except court holidays.
 
-> *Price include only the first 20 pages, 20 cents per extra page
+
+> *19.95 Price includes only the first 20 pages, 20 cents per extra page
 > 
 > *Blue Backing, if required is included.
 >
@@ -21,7 +23,7 @@ We Deliver during courthouse building business hours.
 {% include olccontact.html show_button=false %}
 
 
-Court
+Court - Downtown Building
 ---------
 
 >  Stanley Mosk Courthouse
@@ -31,7 +33,7 @@ Court
 >  (213) 830-0800
 
 
-Court
+Court - Downtown Building
 ---------
 
 >  Spring Street Courthouse
