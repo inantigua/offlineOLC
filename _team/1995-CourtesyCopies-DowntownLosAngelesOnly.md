@@ -29,7 +29,7 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 >  (213) 830-0800
 
 
-LA Spring Court - Downtown Building
+<strong> LA Spring Court - Downtown Building </strong>
 
 
 >  Spring Street Courthouse
