@@ -7,7 +7,7 @@ weight: 2
 Courtesy Copy Printing & Delivery to the following Courthouses 
 
 
-> *Price include only the first 20 pages, after the first 20 pages….$.20 per page
+> *Price includes only the first 20 pages, 20 cents per any extra page
 > 
 > *Blue Backing, if required is included.
 >
