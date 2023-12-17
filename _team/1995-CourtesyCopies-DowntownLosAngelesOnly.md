@@ -8,7 +8,7 @@ weight: 1
 ---
 
 
-> *Price include only the first 20 pages, after the first 20 pages….$.20 per page
+> *Price include only the first 20 pages, 20 cents per extra page
 > 
 > *Blue Backing, if required is included.
 >
@@ -17,7 +17,7 @@ weight: 1
 
 Onlinelegalcourier.com Chambers Copy - Physically Delivered to Courthouse.
 
-{% include call.html show_button=false %}
+{% include olccontact.html show_button=false %}
 
 Courthouse Name - Address - Phone Number
 
