@@ -19,7 +19,7 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 
 
 
-LA Court - Downtown Building
+LA Mosk Court - Downtown Building
 
 
 >  Stanley Mosk Courthouse
@@ -29,7 +29,7 @@ LA Court - Downtown Building
 >  (213) 830-0800
 
 
-LA Court - Downtown Building
+LA Spring Court - Downtown Building
 
 
 >  Spring Street Courthouse
