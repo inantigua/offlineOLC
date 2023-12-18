@@ -19,7 +19,7 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 
 
 
-# <a href="https://www.lacourt.org/courthouse/info/la/" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > LA Mosk Court - Downtown Building </a>
+# <a href="https://www.lacourt.org/courthouse/info/la/" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Stanley Mosk Court - Downtown Building </a>
 
 
 >  Stanley Mosk Courthouse
@@ -29,7 +29,7 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 >  (213) 830-0800
 
 
-# <a href="https://www.lacourt.org/courthouse/info/ss/" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > LA Spring Court - Downtown Building </a>
+# <a href="https://www.lacourt.org/courthouse/info/ss/" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Spring Street Court - Downtown Building </a>
 
 
 >  Spring Street Courthouse
