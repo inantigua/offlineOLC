@@ -16,7 +16,9 @@ City of Compton, City of Whittier and City of El Monte Courts
 >
 > *Exhibit Tabs are considered a page. 
 
-<strong> Compton Courthouse Building </strong>
+<strong> https://www.lacourt.org/courthouse/info/com </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/com" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Compton Courthouse Building </a>
 
 
 >  Compton Courthouse
@@ -26,7 +28,8 @@ City of Compton, City of Whittier and City of El Monte Courts
 >  (310) 761-4300
 
 
-<strong> Whittier Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/wh" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Whittier Courthouse Building </a>
 
 
 >  Whittier Courthouse
@@ -36,7 +39,8 @@ City of Compton, City of Whittier and City of El Monte Courts
 >  (562) 968-2699
 
 
-<strong> El Monte Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/elm" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > El Monte Courthouse Building </a>
 
 
 >  El Monte Courthouse
