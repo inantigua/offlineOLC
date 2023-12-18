@@ -16,7 +16,9 @@ City of Pomona Courthouse South. We Deliver during courthouses building business
 >
 > *Exhibit Tabs are considered a page. 
 
-<strong> Pomona Courthouse South - Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/ea" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Pomona Courthouse South - Building </a>
+
 
 >  Pomona Courthouse South
 >  400 Civic Center Plaza
