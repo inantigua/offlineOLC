@@ -8,7 +8,7 @@ main:
   - name: "Courtesy Copies"
     url: "/services/LA-Court-Courtesy-Copy/"
     weight: 4
-  - name: "Contact"
+  - name: "E-File Services"
     url: "/contact/"
     weight: 5
 
