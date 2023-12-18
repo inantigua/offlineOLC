@@ -17,7 +17,8 @@ We Deliver during courthouse building business hours. Monday through Friday, exc
 >
 > *Exhibit Tabs are considered a page. 
 
-<strong> Governor George Deukmejian Courthouse - City Of Long Beach Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/lb" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Governor George Deukmejian Courthouse - City Of Long Beach Building </a>
 
 
 >  Governor George Deukmejian Courthouse
