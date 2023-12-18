@@ -16,7 +16,8 @@ City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys 
 >
 > *Exhibit Tabs are considered a page. 
 
-<strong> Santa Monica Courthouse Building </strong>
+
+<strong> https://www.lacourt.org/courthouse/info/sm Santa Monica Courthouse Building </strong>
 
 
 >  Santa Monica Courthouse
