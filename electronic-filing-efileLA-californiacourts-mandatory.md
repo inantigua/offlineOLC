@@ -2,10 +2,10 @@
 title: Electronic Court Filing. Affordable Court-Approved Los Angeles, California Courts System E-Fiing.
 layout: home
 description: $24.95 Efile Concierge for Los Angeles County.
-intro_image: "images/illustrations/onlinelegal-civil-efile-losangeles.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: 
+intro_image: 
+intro_image_absolute: 
+intro_image_hide_on_mobile: 
+show_call_box: true
 ---
 
 # Los Angeles Superior Court e-Filing Services
