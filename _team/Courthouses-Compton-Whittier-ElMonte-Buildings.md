@@ -16,7 +16,6 @@ City of Compton, City of Whittier and City of El Monte Courts
 >
 > *Exhibit Tabs are considered a page. 
 
-<strong> https://www.lacourt.org/courthouse/info/com </strong>
 
 # <a href="https://www.lacourt.org/courthouse/info/com" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Compton Courthouse Building </a>
 
