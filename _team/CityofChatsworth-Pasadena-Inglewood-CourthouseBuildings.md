@@ -16,7 +16,9 @@ City of Chatsworth, City of Pasadena and City of Inglewood Courts
 >
 > *Exhibit Tabs are considered a page. 
 
-<strong> Chatsworth Courthouse Building </strong>
+
+
+# <a href="https://www.lacourt.org/courthouse/info/cha" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Chatsworth Courthouse Building </a>
 
 
 >  Chatsworth Courthouse
@@ -26,7 +28,8 @@ City of Chatsworth, City of Pasadena and City of Inglewood Courts
 >  (818) 407-2200
 
 
-<strong> Pasadena Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/pas" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Pasadena Courthouse Building </a>
 
 
 >  Pasadena Courthouse
@@ -36,7 +39,8 @@ City of Chatsworth, City of Pasadena and City of Inglewood Courts
 >  (626) 396-3300
 
 
-<strong> Inglewood Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/ing" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Inglewood Courthouse Building </a>
 
 
 >  Inglewood Courthouse
@@ -46,7 +50,7 @@ City of Chatsworth, City of Pasadena and City of Inglewood Courts
 >  (310) 419-1300
 
 
-<strong> Inglewood Juvenile Courthouse Building </strong>
+# <a href="https://www.lacourt.org/courthouse/info/igj" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Inglewood Juvenile Courthouse Building </a>
 
 
 >  Inglewood Juvenile Courthouse
@@ -54,5 +58,3 @@ City of Chatsworth, City of Pasadena and City of Inglewood Courts
 >  Inglewood, CA 90301
 >
 >  (310) 412-8301
-
-
