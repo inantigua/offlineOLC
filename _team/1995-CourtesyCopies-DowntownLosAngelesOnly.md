@@ -19,7 +19,7 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 
 
 
-<strong> LA Mosk Court - Downtown Building </strong>
+# <a href="https://lacourtesycopies.com/efilingdivisionLACourtComplexCivilEfiling/" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > LA Mosk Court - Downtown Building </a>
 
 
 >  Stanley Mosk Courthouse
@@ -29,7 +29,7 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 >  (213) 830-0800
 
 
-<strong> LA Spring Court - Downtown Building </strong>
+# <a href="https://lacourtesycopies.com/efilingdivisionLACourtComplexCivilEfiling/" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > LA Spring Court - Downtown Building </a>
 
 
 >  Spring Street Courthouse
@@ -38,5 +38,3 @@ We Deliver during courthouses building business hours. Monday through Friday, ex
 >
 >  (213) 310-7000
 >
-> # <a href="https://lacourtesycopies.com/efilingdivisionLACourtComplexCivilEfiling/" target="_blank"><img src="" alt="" style="height: 60px !important;width: 60px !important;" > Years Serving The Los Angeles Legal Community. </a>
-
