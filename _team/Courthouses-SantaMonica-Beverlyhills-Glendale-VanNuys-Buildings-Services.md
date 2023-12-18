@@ -14,10 +14,11 @@ City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys 
 > 
 > *Blue Backing, if required is included.
 >
-> *Exhibit Tabs are considered a page. 
+> *Exhibit Tabs are considered a page.
 
 
-<strong> https://www.lacourt.org/courthouse/info/sm Santa Monica Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/sm" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Santa Monica Courthouse Building </a>
 
 
 >  Santa Monica Courthouse
@@ -27,7 +28,8 @@ City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys 
 >  (310) 255-1840
 
 
-<strong> Beverly Hills Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/bh" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Beverly Hills Courthouse Building </a>
 
 
 >  Beverly Hills Courthouse
@@ -37,7 +39,8 @@ City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys 
 >  (310) 281-2400
 
 
-<strong> Glendale Courthouse Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/gln" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Glendale Courthouse Building </a>
 
 
 >  Glendale Courthouse
@@ -47,7 +50,8 @@ City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys 
 >  (818) 265-6400
 
 
-<strong> Van Nuys Courthouse East Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/nw" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Van Nuys Courthouse East Building </a>
 
 
 >  Van Nuys Courthouse East
@@ -57,7 +61,8 @@ City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys 
 >  (818) 901-4600
 
 
-<strong> Van Nuys Courthouse West Building </strong>
+
+# <a href="https://www.lacourt.org/courthouse/info/lav" target="_blank"><img src="" alt="" style="height: 0px !important;width: 0px !important;" > Van Nuys Courthouse West Building </a>
 
 
 >  Van Nuys Courthouse West
