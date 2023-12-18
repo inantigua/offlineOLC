@@ -1,7 +1,7 @@
 ---
-title: Efile - Los Angeles County @ Online Legal Courier - $30 CTCorp - $19.95 Courtesy Copies
+title: Electronic Court Filing. Affordable Court-Approved Los Angeles, California Courts System E-Fiing.
 layout: home
-description: Efile - Los Angeles County @ Online Legal Courier - $30 CTCorp - $19.95 Courtesy Copies.
+description: $24.95 Efile Concierge for Los Angeles County.
 intro_image: "images/illustrations/onlinelegal-civil-efile-losangeles.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # <a href="https://lacourtesycopies.com/efilingdivisionLACourtComplexCivilEfiling/" target="_blank"><img src="/images/12YearsOLC.jpg" alt="Taking Legal Courier Order Higher" style="height: 60px !important;width: 60px !important;" ></a>Years Serving The Los Angeles Legal Community.
 
-OnlineLegalCourier.com Online Legal Courier is the perfect choice for legal services requiring e- filing throughout California. Courtesy & Chamber copy delivery, Service of Process, and (public records) document retrieval Los Angeles only.
+OnlineLegalCourier.com will e-file your documents, once documents are accepted and conformed.  We will email documents with attached invoice.  Onlinelegalcourier.com will advance any court fees such as First Fees for Summons and Complaint if any are required.  Our fee advancement service has an additional 7% charge.  
