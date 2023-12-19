@@ -1,5 +1,5 @@
 ---
-title: "Courthouses Delivery for Compton, Whittier and El Monte $65.00"
+title: "Courthouses Delivery for Compton, Whittier and El Monte $65.00*"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Compton, Whittier and El Monte Buildings"
@@ -10,7 +10,7 @@ weight: 1
 We Deliver during courthouses building business hours. Monday through Friday, except court holidays.
 City of Compton, City of Whittier and City of El Monte Courts
 
-> *65.00 Price includes only the first 20 pages, 20 cents per any extra page
+> 65.00* Price includes only the first 20 pages, 20 cents per any extra page
 > 
 > *Blue Backing, if required is included.
 >
