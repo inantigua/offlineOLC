@@ -1,5 +1,5 @@
 ---
-title: "Only $30.00 Corporate Process Services. 
+title: "Only $30.00* Corporate Process Services. 
 		CT Corporation Systems"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
@@ -9,7 +9,7 @@ CT Corporation Systems
 330 North Brand Blvd. Suite 700
 Glendale, CA 91203 
 
-> Regular low price of $30.00 per service.  Must be received by 9:00 A.M. for same day service.
+> Regular low price of $30.00* per service.  Must be received by 9:00 A.M. for same day service.
 
 {% include call.html show_button=false %}
 
