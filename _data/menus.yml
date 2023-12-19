@@ -12,7 +12,7 @@ main:
     url: "/electronic-filing-efileLA-californiacourts-mandatory/"
     weight: 5
   - name: "Document Retrival"
-    url: "//"
+    url: "/court-document-retrival-research-service/"
     weight: 6
 
 footer:
