@@ -1,7 +1,7 @@
 ---
 title: Efile - Los Angeles County @ Online Legal Courier - $30 CTCorp - $19.95 Courtesy Copies
 layout: home
-description: Efile - Los Angeles County @ Online Legal Courier - $30 CTCorp - $19.95 Courtesy Copies.
+description: Efile - Los Angeles County @ Online Legal Courier - $30* CTCorp - $19.95* Courtesy Copies.
 intro_image: "images/illustrations/onlinelegal-civil-efile-losangeles.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
