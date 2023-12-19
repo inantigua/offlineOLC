@@ -1,5 +1,5 @@
 ---
-title: "Downtown Los Angeles Only - Courtesy Copy Delivery only $19.95"
+title: "Downtown Los Angeles Only - Courtesy Copy Delivery only $19.95*"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Stanley Mosk & Spring Street Courthouses"
@@ -11,7 +11,7 @@ City of Los Angeles Stanley Mosk and Spring Street Courthouses.
 We Deliver during courthouses building business hours. Monday through Friday, except court holidays.
 
 
-> *19.95 Price includes only the first 20 pages, 20 cents per any extra page
+> 19.95* Price includes only the first 20 pages, 20 cents per any extra page
 > 
 > *Blue Backing, if required is included.
 >
