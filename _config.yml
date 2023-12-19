@@ -8,7 +8,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/Efile-CTCorp.svg"
   desktop_height: "92px"
-  desktop_width: "500px"
+  desktop_width: "450px"
 
 home: 
   limit_services: 6
