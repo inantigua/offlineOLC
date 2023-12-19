@@ -1,5 +1,5 @@
 ---
-title: "Pomona Courthouse South Chambers Copy Delivery $85.00"
+title: "Pomona Courthouse South Chambers Copy Delivery $85.00*"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Pomona Courthouse South."
@@ -10,7 +10,7 @@ weight: 1
 City of Pomona Courthouse South. We Deliver during courthouses building business hours. Monday through Friday, except court holidays.
 
 
-> *85.00 Price includes only the first 20 pages, 20 cents per any extra page
+> 85.00* Price includes only the first 20 pages, 20 cents per any extra page
 > 
 > *Blue Backing, if required is included.
 >
