@@ -1,5 +1,5 @@
 ---
-title: "Courthouses Delivery for Santa Monica, Beverly Hills, Glendale and Van Nuys $45.00"
+title: "Courthouses Delivery for Santa Monica, Beverly Hills, Glendale and Van Nuys $45.00*"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Santa Monica, Beverly Hills, Glendale and Van Nuys Buildings."
@@ -10,7 +10,7 @@ weight: 1
 We Deliver during courthouses building business hours. Monday through Friday, except court holidays.
 City of Santa Monica, City of Beverly Hills, City of Glendale and City Van Nuys Courts
 
-> *45.00 Price includes only the first 20 pages, plus 20 cents per any extra page
+> 45.00* Price includes only the first 20 pages, plus 20 cents per any extra page
 > 
 > *Blue Backing, if required is included.
 >
