@@ -1,5 +1,5 @@
 ---
-title: "Courthouses Delivery for Compton, Whittier and El Monte $65.00*"
+title: "Courthouses Delivery for Compton, Whittier and El Monte $65.00"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Compton, Whittier and El Monte Buildings"
