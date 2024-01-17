@@ -1,5 +1,5 @@
 ---
-title: "City of Long Beach Courthouse Building Delivery $75.00*"
+title: "City of Long Beach Courthouse Building Delivery $75.00"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Governor George Deukmejian Courthouse."
