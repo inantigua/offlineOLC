@@ -1,5 +1,5 @@
 ---
-title: "Starting from $19.95* Courtesy and Chamber Copy Delivery - Los Angeles Courts"
+title: "Starting from $19.95 Courtesy and Chamber Copy Delivery - Los Angeles Courts"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
