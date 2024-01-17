@@ -1,5 +1,5 @@
 ---
-title: "Pomona Courthouse South Chambers Copy Delivery $85.00*"
+title: "Pomona Courthouse South Chambers Copy Delivery $85.00"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Pomona Courthouse South."
