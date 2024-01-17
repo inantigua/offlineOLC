@@ -1,5 +1,5 @@
 ---
-title: "Courthouses Delivery for Chatsworth, Pasadena and Inglewood $55.00*"
+title: "Courthouses Delivery for Chatsworth, Pasadena and Inglewood $55.00"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Chatsworth, Pasadena and Inglewood Buildings."
