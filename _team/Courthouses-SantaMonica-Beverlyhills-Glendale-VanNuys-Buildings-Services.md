@@ -1,5 +1,5 @@
 ---
-title: "Courthouses Delivery for Santa Monica, Beverly Hills, Burbank, Glendale and Van Nuys $45.00*"
+title: "Courthouses Delivery for Santa Monica, Beverly Hills, Burbank, Glendale and Van Nuys $45.00"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Santa Monica, Beverly Hills, Burbank, Glendale and Van Nuys Buildings."
