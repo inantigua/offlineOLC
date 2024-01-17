@@ -1,5 +1,5 @@
 ---
-title: "First Street U.S. Courthouse & Edward R. Roybal Federal Building and United States Courthouse $19.95*"
+title: "First Street U.S. Courthouse & Edward R. Roybal Federal Building and United States Courthouse $19.95"
 date: 2018-11-19T10:47:58+10:00
 image: ""
 jobtitle: "Temple Street and First Street Courthouses"
