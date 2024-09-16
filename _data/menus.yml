@@ -15,7 +15,7 @@ main:
     url: "/court-document-retrival-research-service/"
     weight: 6
   - name: "Credit Card Form"
-    url: "/court-document-retrival-research-service/"
+    url: "/newcustomer.pdf/"
     weight: 7
 
 footer:
